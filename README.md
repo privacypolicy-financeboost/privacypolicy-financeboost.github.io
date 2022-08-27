@@ -7,7 +7,7 @@
 <p>
 Hello there , that's great if you care about your safety.</p>
 <p>
-The app doesn't collect and user data and doesn't establish any connection to any server. It's completely offline.
+The app doesn't collect any user data and doesn't establish any connection to any server. It's completely offline.
 </p>
 <p>
 It just only consists of a psychology intended to boost on your finance.
